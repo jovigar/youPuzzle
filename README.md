@@ -1,2 +1,2 @@
 # youPuzzle
-App for resolving puzzle online
+App for solving puzzle online
